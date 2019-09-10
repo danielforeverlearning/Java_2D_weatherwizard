@@ -29,8 +29,13 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+
+//https://docs.oracle.com/javase/tutorial/2d/index.html
 //"C:\Program Files\Java\jdk1.8.0_144\bin\javac.exe" WeatherWizard.java
 //"C:\Program Files\Java\jdk1.8.0_144\bin\java.exe" WeatherWizard
+
+
 
 import java.applet.Applet;
 import java.awt.*;
